@@ -1,5 +1,10 @@
 # Software-testing
 
+lab_1
+https://github.com/brusni4ka-krutishka/git-demo
+https://github.com/brusni4ka-krutishka/git-demo2
+
+
 lab_3
 https://wealthy-hoof-614.notion.site/c093870b97c1418b9715baec81ee5eff?v=952db033558648b1b767ec3e3178582d&pvs=74
 
